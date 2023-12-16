@@ -8,7 +8,7 @@ for i in range(20) :
 for i in range(19):
     place = input().split()
     for j in range(19):
-        field[i][j] = int(place[j]) #왜너야
+        field[i][j] = int(place[j]) 
  
 count = int(input())
 
